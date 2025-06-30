@@ -28,4 +28,5 @@ The model uses features such as age, chest pain type, blood pressure, cholestero
 ## Logistic Regression Model
 
 The model performs with an average ROC-AUC around 0.91, but is limited by dataset size. Feature importance is depicted below.
+
 ![Feature Importance](figures/eval/Feature_Importance.png)
