@@ -28,5 +28,5 @@ The model uses features such as age, chest pain type, blood pressure, cholestero
 2. Run the notebook to perform EDA, train the model, evaluate performance, and visualize feature importance.
 
 
-## Feature Importance of mdoel
+## Feature Importance of Moddel
 ![Feature Importance](figures/eval/Feature_Importance.png)
