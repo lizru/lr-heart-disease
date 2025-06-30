@@ -16,12 +16,13 @@ The model uses features such as age, chest pain type, blood pressure, cholestero
 - **prints/**: Text outputs.
 
 
+## Notes
+- The model performs with an average ROC-AUC around 0.91, but is limited by dataset size.
+- This project is for educational purposes only and is not intended for clinical use.
+
+
 ## How to Use
 
 1. Ensure you have the required Python packages installed: pandas, numpy, matplotlib, seaborn, scikit-learn, joblib
 2. Run the notebook to perform EDA, train the model, evaluate performance, and visualize feature importance.
 
-
-## Notes
-- The model performs with an average ROC-AUC around 0.91, but is limited by dataset size.
-- This project is for educational purposes only and is not intended for clinical use.
