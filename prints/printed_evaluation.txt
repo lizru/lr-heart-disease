@@ -1,0 +1,21 @@
+CV ROC-AUC scores: [0.9004329  0.91991342 0.96763393 0.90123457 0.85297419]
+Mean CV ROC-AUC: 0.9084
+STD CV ROC-AUC: 0.0370
+
+
+
+Holdout Test Set Eval:
+
+ROC-AUC: 0.9026
+
+F1 Score: 0.8615
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.83      0.86      0.84        28
+           1       0.88      0.85      0.86        33
+
+    accuracy                           0.85        61
+   macro avg       0.85      0.85      0.85        61
+weighted avg       0.85      0.85      0.85        61
