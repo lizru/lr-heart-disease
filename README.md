@@ -29,4 +29,4 @@ The model uses features such as age, chest pain type, blood pressure, cholestero
 
 
 ## Feature Importance of mdoel
-![Feature Importance](figures/eval/feature_importance.png)
+![Feature Importance](figures/eval/Feature_Importance.png)
