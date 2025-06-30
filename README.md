@@ -4,7 +4,8 @@ This project builds a binary classification model to predict the presence of hea
 
 ## Overview
 
-The model uses features such as age, chest pain type, blood pressure, cholesterol, ECG results, and others to identify individuals at risk of heart disease. Logistic Regression is used as the classifier in a preprocessing pipeline that handles scaling, encoding, and missing value imputation.
+The model uses features such as age, chest pain type, blood pressure, cholesterol, ECG results, and others to identify individuals at risk of heart disease. Logistic Regression is used as the classifier in a preprocessing pipeline that handles scaling, encoding, and missing value imputation. *This project is for educational purposes only and is not intended for clinical use.*
+
 
 ## Contents
 
@@ -16,10 +17,6 @@ The model uses features such as age, chest pain type, blood pressure, cholestero
 - **prints/**: Text outputs.
 
 
-## Notes
-
-- The model performs with an average ROC-AUC around 0.91, but is limited by dataset size.
-- This project is for educational purposes only and is not intended for clinical use.
 
 
 ## How to Use
@@ -28,5 +25,7 @@ The model uses features such as age, chest pain type, blood pressure, cholestero
 2. Run the notebook to perform EDA, train the model, evaluate performance, and visualize feature importance.
 
 
-## Feature Importance of Moddel
+## Logistic Regression Model
+
+The model performs with an average ROC-AUC around 0.91, but is limited by dataset size. Feature importance is depicted below.
 ![Feature Importance](figures/eval/Feature_Importance.png)
